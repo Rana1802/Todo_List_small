@@ -1,0 +1,26 @@
+[
+    {
+        "task": "Reading Books ",
+        "done": true
+    },
+    {
+        "task": "Cinema",
+        "done": true
+    },
+    {
+        "task": "DSA",
+        "done": false
+    },
+    {
+        "task": "Project CU",
+        "done": false
+    },
+    {
+        "task": "Analog Communication",
+        "done": false
+    },
+    {
+        "task": "Digital Electronics",
+        "done": false
+    }
+]
